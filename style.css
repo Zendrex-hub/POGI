@@ -1,0 +1,49 @@
+body {
+    background-color: lightgray;
+}
+.Fullname {
+    width: 420px;
+    padding: 5px;
+    border: 5px solid gray;
+    margin: 0 auto;
+    justify-self: center;
+}
+.Objective {
+     width: 390px;
+     padding: 5px;
+     border: 5px solid gray;
+     margin: 0;
+}
+.Skills {
+    width: 390px;
+    padding: 5px;
+    border: 5px solid gray;
+    margin: 0;
+}
+.Experience {
+    width: 390px;
+    padding: 5px;
+    border: 5px solid gray;
+    margin: 0;
+}
+.Top {
+    text-align: center;
+}
+.zenpic{
+    width: 160px;
+    height:160px;
+    border: 5px solid gray;
+    margin: 0;
+}
+.Education{
+    width: 390px;
+    padding: 5px;
+    border: 5px solid gray;
+    margin: 0;
+}
+.Personalinfo{
+    width: 390px;
+    padding: 5px;
+    border: 5px solid gray;
+    margin: 0;
+}
